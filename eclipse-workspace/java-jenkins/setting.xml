@@ -1,0 +1,15 @@
+<settings>
+<servers>
+<server>
+  <id>deploy</id>
+  <username>liuxu</username>
+  <password>hydsoft123</password>
+</server>
+<server>
+       <id>tomcat7</id>
+       <username>tomcat1</username>
+       <password>tomcat1</password>
+    </server>
+
+</servers>
+</settings>
