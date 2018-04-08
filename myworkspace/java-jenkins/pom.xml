@@ -12,7 +12,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
    <repository>  
      <id>releases</id>  
      <name>Internal Releases</name>  
-     <url>http://localhost:8100//usr/local/tomcat9.0/webapps</url>
+     <url>http://39.104.99.190:8100//usr/local/tomcat9.0/webapps</url>
      <layout />  
    </repository>
  </distributionManagement> 
