@@ -24,16 +24,14 @@
            <source>1.8</source> 
            <target>1.8</target> 
          </configuration>
-
-         <resources>
+<resources>
 <resource>
-          <directory>eclipse-workspace/java-jenkins/src/main</directory>
-          <includes>
+<directory>eclipse-workspace/java-jenkins/src/main</directory>
+<includes>
 <include>index.jsp</include>
-          </includes>
-         </resource>
-         </resources>
-
+</includes>
+</resource>
+</resources>
        </plugin> 
        <plugin> 
          <artifactId>maven-war-plugin</artifactId> 
