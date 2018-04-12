@@ -27,10 +27,12 @@
 
          <resources>  
         <resource>
-<directory>src/main/resources</directory>
-
-         <resources>  
-        <resource>
+          <directory>eclipse-workspace/java-jenkins/src/main</directory>
+          <includes>  
+           <include>index.jsp</include>        
+          </includes>
+         </resource>  
+        </resources>
 
        </plugin> 
        <plugin> 
