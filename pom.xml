@@ -25,14 +25,14 @@
            <target>1.8</target> 
          </configuration>
 
-         <resources>  
-        <resource>
+         <resources>
+<resource>
           <directory>eclipse-workspace/java-jenkins/src/main</directory>
-          <includes>  
-           <include>index.jsp</include>        
+          <includes>
+<include>index.jsp</include>
           </includes>
-         </resource>  
-        </resources>
+         </resource>
+         </resources>
 
        </plugin> 
        <plugin> 
